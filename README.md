@@ -1,4 +1,4 @@
-# house-price-predictions-
+Machine Learning project for predicting house prices using Random Forest Regression.
 
 ## Problem Statement
 Predict house sale prices using machine learning.

@@ -1,3 +1,4 @@
 import streamlit as st
-import pandas as pd
-import joblib
+
+st.title("Housing Price Predictor")
+st.write("Model deployment placeholder")
